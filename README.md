@@ -14,6 +14,6 @@ Labs 3 Least Squares <a target="_blank" href="https://colab.research.google.com/
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Labs 4 Maxmimum Likelihood <a target="_blank" href="https://colab.research.google.com/github/Richardjmorton/KL7002_students/blob/main/Lab4_Maximum_likelihood.ipynb">
+Labs 4 Maxmimum Likelihood <a target="_blank" href="https://colab.research.google.com/github/Richardjmorton/KL7002_students/blob/main/Labs4_Maximum_likelihood.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
