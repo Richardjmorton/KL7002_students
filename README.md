@@ -18,6 +18,6 @@ Labs 4 Maxmimum Likelihood <a target="_blank" href="https://colab.research.googl
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Labs 5 Fourier analysis <a target="_blank" href="https://colab.research.google.com/github/Richardjmorton/KL7002_students/blob/main/Labs4_Maximum_Likelihood.ipynb">
+Labs 5 Fourier analysis <a target="_blank" href="https://colab.research.google.com/github/Richardjmorton/KL7002_students/blob/main/Labs_5_Fourier_Transforms.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
