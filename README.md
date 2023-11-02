@@ -17,3 +17,7 @@ Labs 3 Least Squares <a target="_blank" href="https://colab.research.google.com/
 Labs 4 Maxmimum Likelihood <a target="_blank" href="https://colab.research.google.com/github/Richardjmorton/KL7002_students/blob/main/Labs4_Maximum_Likelihood.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+Labs 5 Fourier analysis <a target="_blank" href="https://colab.research.google.com/github/Richardjmorton/KL7002_students/blob/main/Labs4_Maximum_Likelihood.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
